@@ -20,3 +20,10 @@ export const InputContainer = styled.div`
         outline: none;
     }
 `
+
+export const TextError = styled.p`
+    color: red;
+    font-size: .8rem;
+    margin-top: .2rem;
+    margin-left: 1rem;
+`
